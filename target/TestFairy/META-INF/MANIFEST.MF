@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: sjoholm
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_101
+Extension-Name: TestFairy
+Implementation-Title: TestFairy
+Implementation-Version: 4.3-SNAPSHOT
+Group-Id: org.jenkins-ci.plugins
+Short-Name: TestFairy
+Long-Name: TestFairy Plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/TestFairy+Plugin
+Plugin-Version: 4.3-SNAPSHOT (private-59be2060-sjoholm)
+Hudson-Version: 1.596
+Jenkins-Version: 1.596
+Plugin-Developers: TestFairy:testfairy:jenkins@testfairy.com
+

@@ -1,0 +1,2 @@
+#Fri Aug 19 13:14:10 CEST 2016
+constructor=apiKey,appFile,mappingFile,testersGroups,notifyTesters,autoUpdate,maxDuration,recordOnBackground,dataOnlyWifi,isVideoEnabled,screenshotInterval,videoQuality,advancedOptions,keystorePath,storepass,alias,keypass,cpu,memory,network,logs,phoneSignal,wifi,gps,battery,openGl
